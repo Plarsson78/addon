@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
-  <app appid='mjielmgpmdhmphnhaebealllipfkckpc'>
-    <updatecheck codebase='https://drive.google.com/uc?export=download&id='16C4ZPbzYz9_Vxtfbvb1WKZBUCq_uGM3R' version='1.0.0' />
+  <app appid=mjielmgpmdhmphnhaebealllipfkckpc>
+    <updatecheck codebase=https://github.com/Plarsson78/addon/blob/main/notebooklm-hide-suggestions.crx version='1.0.0' />
   </app>
 </gupdate>
